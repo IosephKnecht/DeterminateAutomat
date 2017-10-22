@@ -1,0 +1,17 @@
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.dll
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.xml
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.Drawing.xml
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\Детерминация НКА.csprojResolveAssemblyReference.cache
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.DeterminateForm.resources
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.out_auto.resources
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.SettingsForm.resources
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.VisualView.resources
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\Детерминация НКА.csproj.GenerateResource.Cache
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+C:\Users\dadya_fedar\Documents\Visual Studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb

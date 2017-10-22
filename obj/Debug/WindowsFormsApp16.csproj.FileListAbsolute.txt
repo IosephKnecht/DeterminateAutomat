@@ -1,0 +1,17 @@
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csprojResolveAssemblyReference.cache
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.DeterminateForm.resources
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.Properties.Resources.resources
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.SettingsForm.resources
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.csproj.GenerateResource.Cache
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.exe
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\WindowsFormsApp16.pdb
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.exe
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.pdb
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.out_auto.resources
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.dll
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.Drawing.dll
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.xml
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.Drawing.xml
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\bin\Debug\Microsoft.Msagl.GraphViewerGdi.xml
+c:\users\dadya_fedar\documents\visual studio 2017\Projects\WindowsFormsApp16\WindowsFormsApp16\obj\Debug\WindowsFormsApp16.VisualView.resources
